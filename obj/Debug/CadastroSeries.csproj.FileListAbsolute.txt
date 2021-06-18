@@ -1,0 +1,7 @@
+E:\Repositorios\Desafio\CadastroSeries\obj\Debug\CadastroSeries.csproj.AssemblyReference.cache
+E:\Repositorios\Desafio\CadastroSeries\obj\Debug\CadastroSeries.csproj.CoreCompileInputs.cache
+E:\Repositorios\Desafio\CadastroSeries\bin\Debug\CadastroSeries.exe.config
+E:\Repositorios\Desafio\CadastroSeries\bin\Debug\CadastroSeries.exe
+E:\Repositorios\Desafio\CadastroSeries\bin\Debug\CadastroSeries.pdb
+E:\Repositorios\Desafio\CadastroSeries\obj\Debug\CadastroSeries.exe
+E:\Repositorios\Desafio\CadastroSeries\obj\Debug\CadastroSeries.pdb
